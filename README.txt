@@ -1,2 +1,0 @@
-HolmesEnergy Application ReadMe
-===============================
